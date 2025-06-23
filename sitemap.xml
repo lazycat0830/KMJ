@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://changhuatc.chtraffic.gov.tw/changhuatc/</loc>
+    <lastmod>2025-06-23</lastmod>  //最後更新日期
+    <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
+    <priority>1.0</priority> // 優先級
+  </url>
+</urlset>

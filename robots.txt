@@ -1,0 +1,6 @@
+//指定爬蟲的名稱或類型。(* 所有)
+User-agent: * 
+//指示爬蟲哪些頁面或目錄不應該抓取
+Disallow:
+//指定網站地圖的位置
+Sitemap: https://changhuatc.chtraffic.gov.tw/changhuatc/sitemap.xml 
