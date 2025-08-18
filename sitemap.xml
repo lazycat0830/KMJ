@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lazycat0830.github.io/KMJ/</loc>
-    <lastmod>2025-07-23</lastmod>  //最後更新日期
+    <loc>https://lazycat0830.github.io/KMJ/#/Home</loc>
+    <lastmod>2025-08-18</lastmod>  //最後更新日期
     <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
     <priority>1.0</priority> // 優先級
   </url>
    <url>
-    <loc>https://lazycat0830.github.io/KMJ/Product</loc>
-    <lastmod>2025-07-23</lastmod>  //最後更新日期
+    <loc>https://lazycat0830.github.io/KMJ/#/Product</loc>
+    <lastmod>2025-08-18</lastmod>  //最後更新日期
     <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
     <priority>0.9</priority> // 優先級
   </url>
    <url>
-    <loc>https://lazycat0830.github.io/KMJ/About</loc>
-    <lastmod>2025-07-23</lastmod>  //最後更新日期
+    <loc>https://lazycat0830.github.io/KMJ/#/About</loc>
+    <lastmod>2025-08-18</lastmod>  //最後更新日期
     <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
     <priority>0.8</priority> // 優先級
   </url>
    <url>
-    <loc>https://lazycat0830.github.io/KMJ/Contact</loc>
-    <lastmod>2025-07-23</lastmod>  //最後更新日期
+    <loc>https://lazycat0830.github.io/KMJ/#/Contact</loc>
+    <lastmod>2025-08-18</lastmod>  //最後更新日期
     <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
     <priority>0.7</priority> // 優先級
+  </url>
+   <url>
+    <loc>https://lazycat0830.github.io/KMJ/#/Delivery</loc>
+    <lastmod>2025-08-18</lastmod>  //最後更新日期
+    <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
+    <priority>0.6</priority> // 優先級
+  </url>
+   <url>
+    <loc>https://lazycat0830.github.io/KMJ/#/Exchanges</loc>
+    <lastmod>2025-08-18</lastmod>  //最後更新日期
+    <changefreq>monthly</changefreq> //預期網頁內容更新的頻率(每月)
+    <priority>0.5</priority> // 優先級
   </url>
 </urlset>
